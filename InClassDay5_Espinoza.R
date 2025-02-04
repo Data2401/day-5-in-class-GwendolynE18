@@ -67,7 +67,7 @@ name_length
 # (use the `paste()` function)
 
 a = "is programming!"
-now_doing = paste(my_name,a,sep= " ",collapse = NULL)
+now_doing = paste(my_name,"is programming!",sep= " ",collapse = NULL)
 
 # Make the `now_doing` variable upper case
 
